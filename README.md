@@ -15,4 +15,6 @@ Cách hoạt động:
     1. Bấm chạy video.
     2. Khi video chạy xong và đã được ghi nhận, chương trình sẽ tiếp tục sang bài giảng tiếp theo và chạy tiếp video.
     3. Trường hợp video đã ghi nhận, chương trình sẽ skip bài ấy và tiếp tục.
+- Trước khi sử dụng:
+    - Chaỵ file lms.py và đăng nhập vào web của LMS, chương trình sẽ lưu cookie của người dùng để tránh phải đăng nhập mỗi lần chạy.
 
